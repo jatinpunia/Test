@@ -1,0 +1,16 @@
+div 
+{
+    border: solid black 2px;
+    height: 40px;
+    text-align: center;
+    font-size:30px;    
+    overflow: hidden;
+}
+
+#last{
+    margin:auto;
+    width:50%;
+    overflow:hidden;
+    position: relative;
+    right: 50px;    
+}
